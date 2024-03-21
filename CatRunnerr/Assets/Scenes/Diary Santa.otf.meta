@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cf77f3194de73164c836429ff6155df8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Diary Santa
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a73bfd9e70f991d418f9076e3ea3de2a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
